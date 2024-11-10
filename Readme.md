@@ -53,3 +53,7 @@ jg A, B		// Jump if Greater
 jge A, B	// Jump if Great or Equal
 jl A, B		// Jump if Less
 jle A, B	// Jump if Less or Equal
+
+debugging assembly code with c++
+https://godbolt.org
+
