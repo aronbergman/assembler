@@ -57,3 +57,6 @@ jle A, B	// Jump if Less or Equal
 debugging assembly code with c++
 https://godbolt.org
 
+cours
+https://www.udemy.com/course/assembly-language-programming/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_162511579564_._ad_696197165424_._kw__._de_c_._dm__._pl__._ti_dsa-1677053911888_._li_9198704_._pd__._&matchtype=&gad_source=2&gclid=EAIaIQobChMIxe`i7m6XSiQMVEplQBh0jWB1vEAAYASAAEgIoEPD_BwE&couponCode=2021PM20
+

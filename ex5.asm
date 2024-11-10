@@ -2,7 +2,7 @@ global _start
 section .data
 	addr db "yellow"
 section .text
-_start
+_start:
 	mov [addr], byte 'H'
 	mov [addr+5], byte '!'
 	mov eax, 4		; sys_write system call
