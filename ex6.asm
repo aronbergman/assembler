@@ -11,3 +11,6 @@ _start:
 	mov ecx, esp			; pointer to bytes to write
 	mov edx, 4				; number of bytes to write
 	int 0x80				; perform system call
+	mov eax, 1				; sys_exit system call
+	mov ebx, 0				; exit status is 0
+	int 0x80
