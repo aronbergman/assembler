@@ -6,6 +6,7 @@ _start:
 	int 0x80
 
 func:
+	push ebp
 	mov ebp, esp
 	sub esp, 2
 	mov [esp], byte 'H'
@@ -16,4 +17,5 @@ func:
 	mov edx, 2		; number of bytes to write
 	int 0x80		; perform system call
 	mov esp, ebp
+	pop ebp
 	ret
